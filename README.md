@@ -23,7 +23,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 ### Links
 
 - Solution URL: https://github.com/code-w-loyd/frontend-mentor-challenge-2.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://frontend-mentor-challenge-2-pi.vercel.app/
 
 ### Built with
 
